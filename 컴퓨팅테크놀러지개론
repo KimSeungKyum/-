@@ -1,0 +1,392 @@
+Graphene  is the basic structural element of many other allotropes of carbon, such as graphite, diamond, charcoal, carbon nanotubes and fullerenes.  It is the strongest material ever tested, efficiently conducts heat and electricity, and is nearly transparent.
+
+그래핀은 흑연, 다이아몬드, 숯, 탄소 나노 튜브 그리고 풀러렌과 같은 많은 다른 탄소 합금들의 기본 구조적인 요소입니다. 이것은 테스트 받아 본 것 중 가장 강한 재료이며 열과 전기를 효과적으로 전도하고 거의 투명하다.
+
+     
+
+An algorithm is an unambiguous specification of how to solve a class of problems. 
+
+Algorithms can perform calculation, data processing and automated reasoning tasks
+
+     
+
+알고리즘은 일련의 문제를 해결하는 방법에 대한 명확한 명세이다. 알고리즘은 계산, 데이터 처리 및 자동 추론 작업을 수행할 수 있다.
+
+     
+
+Machine learning is a field of computer science that gives computer systems the ability to "learn" (i.e., progressively improve performance on a specific task) with data, without being explicitly programmed.
+ 
+
+기계 학습은 컴퓨터 시스템에 명시적으로 프로그램되지 않은 데이터로 "학습" 할 수 있는 능력을 주는 컴퓨터 공학 분야입니다.
+
+A graphics processing unit (GPU) is a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. 
+
+GPU(그래픽 처리 장치)는 디스플레이 장치로 출력하기 위한 프레임 버퍼에 있는 이미지의 생성을 가속화하기 위해 메모리를 빠르게 조작하고 변경하도록 설계된 특수 전자 회로입니다.
+
+Metacognition is "cognition about cognition", "thinking about thinking", "knowing about knowing", becoming "aware of one's awareness" and higher-order thinking skills. The term comes from the root word meta, meaning "beyond".
+
+메타 인지란"인식에 대한 인식","생각에 대해 생각하는 것"," 아는 것에 대해 아는 것","인식에 대한 인식을 인식하는 것"그리고 더 높은 순서의 사고 기술을 말합니다. 이 용어는 "초과"를 의미하는 루트 단어 메타에서 유래한다.
+
+A computing platform is the environment in which a piece of software is executed. It may be the hardware or the operating system (OS), even a web browser or other underlying software, as long as the program code is executed in it.  A computing platform is the stage on which computer programs can run.
+
+컴퓨팅 플랫폼은 소프트웨어가 실행되는 환경입니다. 컴퓨터 플랫폼이란 그것 안에서 프로그램 코드가 실행되는 한, 그것은 하드웨어, 운영 체제, 웹 브라우저 또는 다른 기본적인 소프트웨어가 될 수 있다.
+
+     
+
+     
+
+Open-source software is software whose source code is published and made available to the public, enabling anyone to copy, modify and redistribute the source code without paying royalties or fees. One example of open-source software products is Linux.
+
+오픈 소스 소프트웨어는 누구나 로열티나 수수료를 지불하지 않고 소스 코드를 복사하고, 수정하고, 재배포할 수 있도록 하는 소스 코드를 공개하여 대중이 이용할 수 있는 소프트웨어입니다. 오픈 소스 소프트웨어 제품의 한 예는 리눅스이다.
+
+Artificial intelligence (AI, also machine intelligence, MI) is intelligence demonstrated by machines, in contrast to the natural intelligence (NI) displayed by humans and other animals.
+
+인공 지능(AI)은 인간과 다른 동물들이 보여 주는 자연 지능(NI)과 달리 기계로 시연되는 지능이다.
+
+Big data is data sets that are so voluminous and complex that traditional data-processingapplication software are inadequate to deal with them.
+
+빅 데이터는 너무 방대하고 복잡하여 기존의 데이터 처리 애플리케이션 소프트웨어로는 처리할 수 없는 데이터 세트입니다.
+
+     
+
+Artificial neural networks (ANNs) are computing systems vaguely inspired by the biological neural networks that constitute animal brains. Such systems "learn" (i.e. progressively improve performance on) tasks by considering examples, generally without task-specific programming
+
+인공 신경 네트워크는 동물의 뇌를 구성하는 생물학적 신경 네트워크에 의해 모호하게 영감을 받아 시스템을 계산한다. 이러한 시스템은 일반적으로 태스크 관련 프로그래밍 없이 예제를 고려하여 작업에 대한 "학습"(즉, 점진적으로 성능 향상)을 수행합니다.
+
+The Internet of things (IoT) is the network of physical devices, vehicles, home appliances and other items embedded with electronics, software, sensors, actuators, and connectivity which enables these objects to connect and exchange data.
+
+IoT(Internetof사물 인터넷)는 물리적 장치, 차량, 가전 제품 및 이러한 개체가 데이터를 연결하고 교환할 수 있도록 해 주는 전자 기기, 소프트웨어, 센서, 액추에이터 및 연결이 내장된 기타 항목의 네트워크입니다.
+
+Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised or unsupervised
+
+     
+
+깊은 학습( 깊은 체계적 학습 또는 계층적 학습이라고도 함)은 작업별 알고리즘과는 달리 데이터 표현을 학습하는 것에 기초한 더 광범위한 기계 학습 방법 군의 일부이다. 학습은 감독, 반 감독 또는 감독되지 않는 상태로 진행될 수 있다.
+
+     
+
+     
+
+     
+
+In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation. In other definitions computer architecture involves instruction set architecture design, microarchitecture design, logic design, and implementation.
+
+     
+
+컴퓨터 공학에서, 컴퓨터 구조는 컴퓨터 시스템의 기능, 조직 그리고 실행을 기술하는 일련의 규칙과 방법들이다. 아키텍처의 일부 정의는 그것을 특정한 구현이 아닌 컴퓨터의 능력과 프로그래밍 모델을 설명하는 것으로 정의한다. 다른 정의들 안에서, 컴퓨터 구조는 명령 집합 건축 설계, 마이크로 아키텍처 설계, 논리 설계, 그리고 implem을 포함합니다.
+
+     
+
+Information technology (IT) is the application of computers to store, retrieve, transmit and manipulate data, or information, often in the context of a business or other enterprise.
+
+IT(정보 기술)는 데이터 또는 정보를 저장, 검색, 전송 및 조작하기 위해 컴퓨터를 사용하는 애플리케이션으로, 기업 또는 기타 기업 환경에서 흔히 그러하다.
+
+AlphaGo is a computer program that plays the board game Go. It was developed by Alphabet Inc.'s Google DeepMind in London.
+
+알파 고의 컴퓨터 프로그램은 바둑을 바둑으로 두는 것이다. 이 모델은 AlphabetInc. 의 런던에 있는 GoogleDeepMind에서 개발한 제품입니다.
+
+A massive open online course (MOOC) is an online course aimed at unlimited participation and open access via the web.
+
+대규모 개방형 온라인 강좌(MOOC)는 웹을 통한 무제한적인 참여와 개방형 접속을 목표로 하는 온라인 강좌이다.
+
+Computer software, or simply software, is a part of a computer system that consists of data or computer instructions, in contrast to the physical hardware from which the system is built. In computer science and software engineering, computer software is all information processed by computer systems, programs and data. Computer software includes computer programs, libraries and related non-executable data, such as online documentation or digital media. Computer hardware and software require each other and neither can be realistically used on its own.
+
+컴퓨터 소프트웨어 또는 단순한 소프트웨어는 시스템이 지어지는 물리적 하드웨어와는 대조적으로 데이터나 컴퓨터 명령으로 이루어진 컴퓨터 시스템의 일부이다. 컴퓨터 공학과 소프트웨어 공학에서, 컴퓨터 소프트웨어는 컴퓨터 시스템과 프로그램 그리고 자료에 의해 처리되는 모든 정보들이다. 컴퓨터 소프트웨어는 컴퓨터 프로그램, 도서관 그리고 온라인 문서나 디지털 m과 같은 관련된 실행 불가능한 데이터를 포함한다.
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+Computer hardware are the physical parts or components of a computer, such as the monitor, keyboard, computer data storage, graphic card, sound card and motherboard. By contrast, software is instructions that can be stored and ran by hardware. Hardware is directed by the software to execute any command or instruction. A combination of hardware and software forms a usable computing system
+
+     
+
+컴퓨터 하드웨어는 모니터, 키보드, 컴퓨터 데이터 스토리지, 그래픽 카드, 사운드 카드 및 마더 보드와 같은 컴퓨터의 물리적 부품 또는 구성 요소입니다. 대조적으로, 소프트웨어는 하드웨어에 의해서 저장되고 실행될 수 있는 지침서이다. 하드웨어는 모든 명령이나 명령을 실행하도록 소프트웨어에 의해 지시된다. 하드웨어와 소프트웨어의 조합이 사용 가능한 컴퓨팅 시스템을 형성합니다.
+
+A central processing unit (CPU) is the electronic circuitry within a computer that carries out the instructions of a computer program by performing the basic arithmetic, logical, control and input/output (I/O) operations specified by the instructions. Traditionally, the term "CPU" refers to a processor, more specifically to its processing unit and control unit (CU), distinguishing these core elements of a computer from external components such as main memory and I/O circuitry.
+
+CPU(CentralProcessingUnit)는 지시에 의해 지정된 기본 산술, 논리, 컨트롤 및 입출력(I/O)작업을 수행하여 컴퓨터 프로그램의 지시를 수행하는 컴퓨터 내부의 전자 회로입니다. 전통적으로,"CPU"라는 용어는 프로세서, 특히 처리 장치와 제어 장치(CU)를 지칭하며, 다음과 같은 외부 구성 요소와 컴퓨터의 이러한 핵심 요소를 구별한다.
+
+An application program (app or application for short) is a computer program designed to perform a group of coordinated functions, tasks, or activities for the benefit of the user. Examples of an application include a word processor, a spreadsheet, an accounting application, a web browser, a media player, an aeronautical flight simulator, a console game or a photo editor. The collective noun application software refers to all applications collectively. This contrasts with system software, which is mainly involved with running the computer.
+
+애플리케이션 프로그램(애플리케이션 또는 줄여서 애플리케이션)은 사용자의 이익을 위해 조정된 기능, 작업 또는 활동 그룹을 수행하도록 설계된 컴퓨터 프로그램이다. 응용 프로그램의 예로는 워드 프로세서, 스프레드 시트, 회계 응용 프로그램, 웹 브라우저, 미디어 플레이어, 항공기 비행 시뮬레이터, 콘솔 게임 또는 사진 편집기가 있다. 집합적 명사 적용 소프트웨어는 모든 응용 프로그램의 집합을 말한다.
+
+Watson is a question answering computer system capable of answering questions posed in natural language, developed in IBM's DeepQA project by a research team led by principal investigator David Ferrucci. Watson was named after IBM's first CEO, industrialist Thomas J. Watson.
+
+왓슨은, 자연 언어로 제기되는 질문에 답할 수 있는 컴퓨터 시스템에 답할 수 있는 질문이며, 이 질문은 수석 연구원 데이비드 페루치가 이끄는 IBM개발 팀의 연구에서 개발된 것이다. 왓슨은 IBM의 첫번째 최고 경영자인 기업가 토마스 J. 왓슨의 이름을 따서 지어졌다.
+
+Random-access memory (RAM) is a form of computer data storage that stores data and machine code currently being used. A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory. In contrast, with other direct-access data storage media such as hard disks, CD-RWs, DVD-RWs and the older magnetic tapes and drum memory, the time required to read and write data items varies significantly depending on their physical locations on the recording medium, due to mechanical limitations such as media rotation speeds and arm movement.
+
+RAM(Random-AccessMemory)은 현재 사용 중인 데이터와 시스템 코드를 저장하는 일종의 컴퓨터 데이터 스토리지입니다. 랜덤 액세스 메모리 장치는 메모리 내의 데이터의 물리적 위치에 관계 없이 데이터 항목을 거의 동일한 시간에 읽거나 쓸 수 있도록 한다. 반면 하드 디스크, CD-RW, DVD-RW, 이전의 자기 테이프와 드럼 메모리와 같은 다른 직접 액세스 데이터 저장 매체에서는 다시 저장하는 데 필요한 시간이 달라집니다.
+
+Data science, also known as data-driven science, is an interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured,  similar to data mining.
+
+데이터 과학이라고도 하는 데이터 과학은 데이터 마이닝과 유사하게 구조화되거나 구조화되지 않은 다양한 형태의 데이터에서 지식이나 통찰력을 추출하기 위한 과학적 방법, 프로세스, 알고리즘 및 시스템의 학문 분야이다
+
+In mathematics and computer science, an algorithm is an unambiguous specification of how to solve a class of problems.
+
+수학과 컴퓨터 과학에서 알고리즘은 일련의 문제를 해결하는 방법에 대한 명확한 명세이다.
+
+The Internet of things (IoT) is the network of physical devices, vehicles, home appliances and other items embedded with electronics, software, sensors, actuators, and connectivity which enables these objects to connect and exchange data.
+
+IoT(Internetof사물 인터넷)는 물리적 장치, 차량, 가전 제품 및 이러한 개체가 데이터를 연결하고 교환할 수 있도록 해 주는 전자 기기, 소프트웨어, 센서, 액추에이터 및 연결이 내장된 기타 항목의 네트워크입니다.
+
+A database is an organized collection of data.
+
+데이터베이스는 데이터의 조직된 모음입니다.
+
+Social commerce is a subset of electronic commerce that involves social media, online media that supports social interaction, and user contributions to assist online buying and selling of products and services.
+
+소셜 커머스는 소셜 미디어, 소셜 상호 작용을 뒷받침해 주는 온라인 미디어, 그리고 제품과 서비스의 온라인 구매와 판매를 돕기 위한 사용자의 공헌을 포함하는 전자 상거래의 일부이다.
+
+Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+
+OSS(Open-source소프트웨어)는 저작권 소유자가 이 소프트웨어를 어떤 목적으로든 연구, 변경 및 배포할 수 있는 권리를 제공하는 라이센스로 이용하는 컴퓨터 소프트웨어입니다.
+
+     
+
+In computer networking, a wireless access point (WAP), or more generally just access point (AP), is a networking hardware device that allows a Wi-Fi device to connect to a wired network.
+
+컴퓨터 네트워킹에서 무선 액세스 지점(WAP)또는 더 일반적으로 단지 접속 지점(AP)은 Wi-Fi장치가 유선 네트워크에 연결되도록 해 주는 네트워킹 하드웨어 장치입니다.
+
+Cloud computing is an information technology (IT) paradigm that enables ubiquitous access to shared pools of configurable system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet.
+
+클라우드 컴퓨팅은 구성 가능한 공유 시스템 리소스 및 상위 레벨의 서비스 풀에 대한 유비쿼터스 액세스를 지원하는 IT(정보 기술)패러다임으로, 이는 종종 인터넷을 통해 최소의 관리 노력으로 신속하게 프로비저닝 된다.
+
+Enterprise resource planning (ERP) is the integrated management of core business processes, often in real-time and mediated by software and technology.
+
+ERP(전사적 자원 관리)는 핵심 비즈니스 프로세스의 통합 관리로, 소프트웨어와 기술에 의해 실시간으로 매개된다.
+
+A digital signature is a mathematical scheme for demonstrating the authenticity of digital messages or documents.
+
+디지털 서명은 디지털 메시지나 문서의 진위를 입증하기 위한 수학적 체계이다.
+
+A personal identification number (PIN, pronounced "pin"; is often spoken out loud "PIN number" by mistake) is a numeric or alpha-numeric password or code used in the process of authenticating or identifying a user to a system and system to a user.
+
+개인 식별 번호(PIN" 핀 "로 발음됨)는 흔히 실수로 "PIN번호"라고 크게 발음되는 숫자 또는 영숫자 암호 또는 시스템 인증 또는 사용자 식별 프로세스에 사용되는 코드입니다.
+
+The Global Positioning System (GPS) is a satellite-based radio navigation system owned by the United States government and operated by the United States Air Force.
+
+글로벌 포지셔닝 시스템(GPS)은 미국 정부가 소유하고 미 공군이 운용하는 위성 기반 무선 내비게이션 시스템입니다
+
+In the broadest definition, a sensor is a device, module, or subsystem whose purpose is to detect events or changes in its environment and send the information to other electronics, frequently a computer processor.
+
+가장 광범위한 정의에서 센서는 환경의 이벤트나 변화를 감지하고 정보를 다른 전자 제품(컴퓨터 프로세서)에 보내는 목적을 가진 장치, 모듈 또는 하위 시스템이다.
+
+A software bug is an error, flaw, failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.
+
+소프트웨어 버그는 오류, 결함, 오류 또는 잘못된 결과나 예상치 못한 결과를 초래하거나 의도하지 않은 방식으로 동작하게 하는 컴퓨터 프로그램이나 시스템의 결함이다.
+
+     
+
+Big data is data sets that are so voluminous and complex that traditional data-processingapplication software are inadequate to deal with them.
+
+빅 데이터는 너무 방대하고 복잡하여 기존의 데이터 처리/애플리케이션 소프트웨어로는 처리할 수 없는 데이터 세트입니다.
+
+An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints.
+
+임베디드 시스템은 대규모 기계 또는 전기 시스템 내에서 전용 기능이 있는 컴퓨터 시스템이며, 종종 실시간 컴퓨팅 제한이 있다.
+
+Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.
+
+웹 스크래핑, 웹 수확 또는 웹 데이터 추출은 웹 사이트에서 데이터를 추출하는 데 사용되는 데이터 스크래핑입니다.
+
+Financial technology (FinTech or fintech) is the new technology and innovation that aims to compete with traditional financial methods in the delivery of financial services. The use of smartphones for mobile banking, investing services and cryptocurrency are examples of technologies aiming to make financial services more accessible to the general public. 
+
+금융 기술(FinTech또는 Fintech)은 금융 서비스 제공에서 전통적인 금융 방법과 경쟁하는 새로운 기술과 혁신입니다.
+
+Skinput is an input technology that uses bio-acoustic sensing to localize finger taps on the skin.
+
+스킨펫은 생물 음향 센서를 이용해 피부에 손가락 탭을 위치시켜 주는 입력 기술이다.
+
+Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
+
+HTML(HypertextMarkupLanguage)은 웹 페이지 및 웹 응용 프로그램을 만드는 데 사용되는 표준 Markup언어입니다. Cascading스타일 시트(CSS)와 JavaScript를 활용하여 WorldWideWeb의 초석 기술을 구성합니다.
+
+Human–Computer Interaction (commonly referred to as HCI) researches the design and use of computer technology, focused on the interfaces between people (users) and computers.
+
+인간과 컴퓨터의 상호 작용(HCI라고 함)은 사람(사용자)과 컴퓨터 사이의 인터페이스에 초점을 맞춘 컴퓨터 기술의 설계와 사용을 연구합니다.
+
+Augmented reality (AR) is a direct or indirect live view of a physical, real-world environment whose elements are "augmented" by computer-generated perceptual information, ideally across multiple sensory modalities, including visual, auditory, haptic, somatosensory, and olfactory.
+
+증강 현실(AR)은 시각, 청각, 촉각, 후각을 포함한 여러가지 감각 양식에 걸쳐 이상적으로 컴퓨터 기반 지각 정보에 의해 요소가 "증강" 되는 물리적 또는 현실 환경을 직접적으로 또는 간접적으로 라이브 뷰 하는 것을 말한다.
+
+     
+
+Virtual reality (VR) is a computer-generated scenario that simulates a realistic experience.
+
+VR(VirtualReality)은 현실적인 경험을 시뮬레이션하는 컴퓨터 생성 시나리오입니다.
+
+Information technology (IT) is the application of computers to store, retrieve, transmit and manipulate data, or information, often in the context of a business or other enterprise.
+
+IT(정보 기술)는 데이터 또는 정보를 저장, 검색, 전송 및 조작하기 위해 컴퓨터를 사용하는 애플리케이션으로, 기업 또는 기타 기업 환경에서 흔히 그러하다.
+
+Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
+
+Java는 범용 컴퓨터 프로그래밍 언어이며, 이는 동시적이며, 클래스 기반, 객체 지향적이며, 가능한 한 적은 구현 의존성을 갖도록 특별히 설계되었다. 이는 애플리케이션 개발자들이 "한번 쓰고 어디서나 실행" 할 수 있도록 하기 위한 것으로, 이것은 컴파일된 Java코드가 재구성할 필요 없이 Java를 지원하는 모든 플랫폼에서 실행된다는 것을 의미한다.
+
+JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. Alongside HTML and CSS, JavaScript is one of the three core technologies of World Wide Web content engineering. It is used to make dynamic webpages interactive and provide online programs, including video games.
+
+종종 제이에스로 축약되는 JavaScript는 높은 수준의 해석된 프로그래밍 언어이다. HTML과 CSS와 함께 JavaScript는 WorldWideWebContentEngineering의 세가지 핵심 기술 중 하나입니다. 동적 웹 페이지를 대화형으로 만들고 비디오 게임을 포함한 온라인 프로그램을 제공하는 데 사용됩니다.
+
+In computer interface design, a toolbar is a graphical control element on which on-screen buttons, icons, menus, or other input or output elements are placed. Toolbars are seen in many types of software such as office suites, graphics editors and web browsers.
+
+컴퓨터 인터페이스 설계에서 도구 모음은 화면상 버튼, 아이콘, 메뉴 또는 기타 입력 또는 출력 요소를 배치하는 그래픽 컨트롤 요소이다. 도구 모음은 사무실용 제품군, 그래픽 편집기 및 웹 브라우저와 같은 여러 종류의 소프트웨어에 표시됩니다.
+
+A touchscreen is an input and output device normally layered on the top of an electronic visual display of an information processing system. A user can give input or control the information processing system through simple or multi-touch gestures by touching the screen with a special stylus or one or more fingers.
+
+터치 스크린은 정보 처리 시스템의 전자 시각 디스플레이 상단에 일반적으로 레이어 된 입력 및 출력 장치이다. 사용자는 특별한 축음기 또는 하나 이상의 손가락으로 화면을 만짐으로써 간단한 또는 멀티 터치 제스처를 통해 정보 처리 시스템에 입력이나 제어를 할 수 있다.
+
+     
+
+     
+
+An autonomous car (also known as a driverless car, self-driving car, robotic car, auto) and unmanned ground vehicle is a vehicle that is capable of sensing its environment and navigating without human input.
+
+무인 자동차(무인 자동차, 자율 주행 자동차, 로봇 자동차, 자동차)와 무인 지상 자동차는 사람의 입력 없이도 환경을 감지하고 항해할 수 있는 자동차이다.
+
+An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft without a human pilot aboard. UAVs are a component of an unmanned aircraft system (UAS); which include a UAV, a ground-based controller, and a system of communications between the two. 
+
+무인 항공기는 일반적으로 드론이라고 알려진 것으로, 사람이 타고 있지 않는 비행기이다. 무인 항공기 시스템(UAS)의 구성 요소는 무인 항공기, 지상 관제사 및 두 항공기 간의 통신 시스템을 포함합니다.
+
+Radio-frequency identification (RFID) uses electromagnetic fields to automatically identify and track tags attached to objects. The tags contain electronically-stored information.
+
+RFID(라디오 주파수 식별)는 전자파 필드를 사용하여 개체에 연결된 태그를 자동으로 식별하고 추적합니다. 태그에는 전자 저장된 정보가 포함되어 있습니다.
+
+Machine learning is a field of computer science that gives computer systems the ability to "learn" (i.e., progressively improve performance on a specific task) with data, without being explicitly programmed.
+
+기계 학습은 컴퓨터 시스템에 명시적으로 프로그램되지 않은 데이터로 "학습" 할 수 있는 능력을 주는 컴퓨터 공학 분야입니다.
+
+Cloud computing is an information technology (IT) paradigm that enables ubiquitous access to shared pools of configurable system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet.
+
+클라우드 컴퓨팅은 구성 가능한 공유 시스템 리소스 및 상위 레벨의 서비스 풀에 대한 유비쿼터스 액세스를 지원하는 IT(정보 기술)패러다임으로, 이는 종종 인터넷을 통해 최소의 관리 노력으로 신속하게 프로비저닝 된다.
+
+Ubiquitous computing is a concept in software engineering and computer science where computing is made to appear anytime and everywhere. In contrast to desktop computing, ubiquitous computing can occur using any device, in any location, and in any format.
+
+유비쿼터스 컴퓨팅은 컴퓨터가 언제 어디서나 나타날 수 있도록 만들어진 소프트웨어 공학과 컴퓨터 공학의 개념이다. 데스크 톱 컴퓨팅과 달리 유비쿼터스 컴퓨팅은 모든 기기, 장소, 형식에 상관 없이 발생할 수 있다.
+
+Manufacturing execution systems (MES) are computerized systems used in manufacturing, to track and document the transformation of raw materials to finished goods. MES provides information that helps manufacturing decision makers understand how current conditions on the plant floor can be optimized to improve production output. MES works in real time to enable the control of multiple elements of the production process (e.g. inputs, personnel, machines and support services).
+
+제조 실행 시스템(MES)은 완제품에 대한 원재료 변환을 추적하고 문서화하기 위해 제조에 사용되는 전산화 시스템이다. MES는 제조 의사 결정자가 생산 출력을 개선하기 위해 발전소 바닥에 현재 조건이 어떻게 최적화될 수 있는지 이해하는 것을 돕는 정보를 제공한다. MES는 생산 프로세스의 여러 요소(예:입력, 직원, 기계 및 지원 서비스)를 제어하도록 실시간으로 작동한다.
+
+3D printing refers to processes in which material is joined or solidified under computer control to create a three-dimensional object, with material being added together (such as liquid molecules or powder grains being fused together). 
+
+3D프린팅은 컴퓨터 제어를 통해 재료를 결합하거나 응고시켜 3차원 개체를 만들어 내는 프로세스를 말합니다(액체 분자나 분말 입자 등).
+
+Telematics is the integrated use of telecommunications and informatics for application in vehicles and with control of vehicles on the move
+
+텔레매틱스는 이동 중인 차량에 대한 제어 기능과 함께 통신 및 정보 응용 분야의 통합된 사용입니다
+
+A blockchain originally block chain, is a continuously growing list of records, called blocks, which are linked and secured using cryptography. By design, a blockchain is inherently resistant to modification of the data.
+
+원래 Blockphain은 암호화를 사용하여 연결 및 보호하는 블록이라고 하는 계속 증가하는 레코드 목록입니다. 설계상, blockphain은 본질적으로 데이터의 수정에 대한 내성이 있다.
+
+In computing, a server is a computer program or a device that provides functionality for other programs or devices, called "clients".
+
+컴퓨팅에서 서버는 "클라이언트"라고 불리는 다른 프로그램이나 장치에 기능을 제공하는 컴퓨터 프로그램 또는 장치입니다.
+
+A network host is a computer or other device connected to a computer network. A network host may offer information resources, services, and applications to users or other nodes on the network.
+
+네트워크 호스트는 컴퓨터 네트워크에 연결된 컴퓨터 또는 기타 장치입니다. 네트워크 호스트는 사용자 또는 네트워크의 다른 노드에 정보 리소스, 서비스 및 응용 프로그램을 제공할 수 있습니다.
+
+Computer-aided design (CAD) is the use of computer systems (or workstations) to aid in the creation, modification, analysis, or optimization of a design.
+
+컴퓨터 지원 설계(CAD)는 설계의 생성, 수정, 분석 또는 최적화를 돕는 컴퓨터 시스템(또는 워크 스테이션)의 사용을 말한다.
+
+Power-line communication (PLC) carries data on a conductor that is also used simultaneously for AC electric power transmission or electric power distribution to consumers.
+
+PLC(전원 라인 통신)는 전기 소비 장치에 대한 AC전력 송전 또는 전력 배전에 동시에 사용되는 도체에 데이터를 전달한다.
+
+A supercomputer is a computer with a high level of performance compared to a general-purpose computer.
+
+슈퍼 컴퓨터는 범용 컴퓨터에 비해 성능이 뛰어난 컴퓨터입니다.
+
+A web browser (commonly referred to as a browser) is a software applicationfor retrieving, presenting and traversing information resources on the World Wide Web.
+
+웹 브라우저(일반적으로 브라우저라고 함)는 WorldWideWeb의 정보 리소스를 검색하고 프레젠테이션 및 전송하는 소프트웨어 응용 프로그램입니다.
+
+A connected car is a car that is equipped with Internet access, and usually also with a wireless local area network.
+
+연결된 자동차는 인터넷 액세스가 가능하고 대개 무선 근거리 통신망이 장착된 자동차입니다.
+
+A programmable logic controller (PLC), or programmable controller is an industrial digital computer which has been ruggedized and adapted for the control of manufacturing processes, such as assembly lines, or robotic devices, or any activity that requires high reliability control and ease of programming and process fault diagnosis
+
+PLC(프로그래머블 로직 컨트롤러)또는 프로그램 가능 컨트롤러는 조립 라인이나 로봇 장치와 같은 제조 공정 또는 높은 신뢰성과 제어를 요하는 모든 활동에 대해 내구성이 있고 채택된 산업용 디지털 컴퓨터이다.
+
+Computer vision is an interdisciplinary field that deals with how computers can be made for gaining high-level understanding from digital images or videos. From the perspective of engineering, it seeks to automate tasks that the human visual system can do.
+
+컴퓨터 비전은 디지털 이미지 또는 비디오로부터 높은 수준의 이해를 얻기 위해 컴퓨터가 만들어지는 방법을 다루는 학제간 분야입니다. 공학의 관점에서 보면, 그것은 인간의 시각 시스템이 할 수 있는 일을 자동화하는 것을 추구한다.
+
+Data Interchange Format is a text file format used to import/export single spreadsheets between spreadsheet programs (OpenOffice.org Calc, Excel, Gnumeric, StarCalc, Lotus 1-2-3, FileMaker, dBase, Framework, Multiplan, etc.). 
+
+데이터 교환 형식은 스프레드 시트 프로그램 사이의 단일 스프레드 시트를 가져오기/ 내보내는 데 사용되는 텍스트 파일 형식입니다.
+
+Moore's law is the observation that the number of transistors in a dense integrated circuit doubles approximately every two years. 
+
+무어의 법칙은 조밀한 집적 회로에서 트랜지스터의 수가 약 2년마다 두배로 증가한다는 것을 관찰하는 것이다.
+
+Wearable computers, also known as wearables or body-borne computers, are small computing devices (nowadays usually electronic) that are worn under, with, or on top of clothing.
+
+웨어러블 또는 차체 방식의 컴퓨터라고도 하는 웨어러블 컴퓨터는 의복 아래, PC또는 옷 위에 착용하는 소형 컴퓨팅 장치(일반적으로 요즘 전자식)입니다.
+
+The Global Positioning System (GPS), originally Navstar GPS, is a satellite-based radio navigation system owned by the United Statesgovernment and operated by the United States Air Force.
+
+위성 위치 확인 시스템(GPS)은 원래 NabttarGPS는, 미국 정부가 소유하고, 미국 공군이 운영하는 위성 기반 무선 항법 시스템이다.
+
+Augmented reality (AR) is a direct or indirect live view of a physical, real-world environment whose elements are "augmented" by computer-generated perceptual information, ideally across multiple sensory modalities, including visual, auditory, haptic, somatosensory, and olfactory.
+
+There are two definitions of the word "hacker":
+
+ an adherent of the technology and programming subculture.
+
+someone who is able to subvert computer security. If doing so for malicious purposes, the person can also be called a cracke
+
+     
+
+증강 현실(AR)은 시각, 청각, 촉각, 후각을 포함한 여러가지 감각 양식에 걸쳐 이상적으로 컴퓨터 기반 지각 정보에 의해 요소가 "증강" 되는 물리적 또는 현실 환경을 직접적으로 또는 간접적으로 라이브 뷰 하는 것을 말한다.
+
+"해커"라는 단어에는 두가지 정의가 있습니다.
+
+1.일 기술과 프로그래밍 하위 문화의 추종자
+
+2.일 컴퓨터 보안을 전복시킬 수 있는 누군가 만약 악의적인 목적으로 그렇게 한다면, 그 사람은 크래커라고도 불릴 수 있다.
+
+A hackathon (also known as a hack day, hackfest or codefest) is a design sprint-like event in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, and others, often including subject-matter-experts, collaborate intensively on software projects.
+
+hackathon(해킹 데이, 더 큰 문제 또는 가장 중요한 주제라고도 함)은 컴퓨터 프로그래머와 기타 프로젝트 설계자가 그래픽 디자이너를 포함하여 소프트웨어 개발에 관련된 프로젝트와 유사한 프로젝트이다.
+
+Microsoft HoloLens, known under development as Project Baraboo,[3] is a pair of mixed reality smart glasses developed and manufactured by Microsoft. 
+
+개발 중인 프로젝트 Baraboo로 알려진 MicrosoftHoloLens[3]은 마이크로 소프트에 의해 개발 및 제조된 혼합 현실 스마트 안경 쌍입니다.
+
+Holography is the science and practice of making holograms. Typically, a hologram is a photographic recording of a light field, rather than of an imageformedbya lens, and it is used to display a fully three-dimensional image of the holographed subject, which is seen without the aid of special glasses or other intermediate optics.
+
+홀로그래피는 홀로그램을 만드는 과학과 연습입니다. 일반적으로 홀로그램은 렌즈에 의해 사진이 찍힌 것이 아니라, 라이트 필드를 사진으로 촬영한 것이며, 다른 광학 물체가 보이지 않는 상태에서 중간 크기의 안경의 완전한 3차원 이미지를 나타내는 데 사용됩니다.
+
+The Defense Advanced Research Projects Agency (DARPA) is an agency of the United States Department of Defense responsible for the development of emerging technologies for use by the military.
+
+DARPA(DefenseAdvancedResearchProjectsAgency)는 미국 국방부의 기관으로 군에 사용되는 신기술 개발을 책임 지고 있다.
+
+Wireless communication, or sometimes simply wireless, is the transfer of information or power between two or more points that are not connected by an electrical conductor. The most common wireless technologies use radio waves.
+
+무선 통신, 또는 때때로 단순한 무선은 전기 도체에 의해 연결되지 않은 두개 이상의 지점 사이에 정보 또는 전력을 전달하는 것이다. 가장 일반적인 무선 기술은 전파를 사용합니다.
+
+A semiconductor material has an electrical conductivity value falling between that of a conductor – such as copper, gold etc. – and an insulator, such as glass.
+
+반도체 물질은 도체(예:구리, 금 등)와 유리창과 같은 절연체 사이에 전도도 값이 떨어집니다.
+
+The terabyte is a multiple of the unit byte for digital information. The prefix tera represents the fourth power of 1000, and means 1012 in the International System of Units (SI), and therefore one terabyte is one trillion (short scale) bytes. The unit symbol for the terabyte is TB.
+
+테라 바이트는 디지털 정보용 단위 바이트의 배수로, 접두사 테라 바이트는 국제 단위 체계(SI)에서 네번째 전력인 1000을 의미하고, 1012를 의미하며, 따라서 1테라바이트(단거리)입니다. 테라 바이트의 단위 기호는 TB입니다.
